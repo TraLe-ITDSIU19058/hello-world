@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Jasmine Blog
 
-You can use the [editor on GitHub](https://github.com/TraLe-ITDSIU19058/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
+You can see my [blogs](https://github.com/TraLe-ITDSIU19058/hello-world/edit/main/README.md) to get the new contents
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
