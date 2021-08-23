@@ -3,12 +3,7 @@
 You can see my [blogs](https://github.com/TraLe-ITDSIU19058/hello-world/edit/main/README.md) to get the new contents
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+In data science, especially in big data field, analytics is defined as a broad term that encompasses the process, technologies, frameworks and algorithms to extract meaningful insights from data
 
 # Header 1
 ## Header 2
